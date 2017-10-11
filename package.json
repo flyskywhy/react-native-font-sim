@@ -1,0 +1,30 @@
+{
+  "name": "react-native-font-sim",
+  "version": "1.0.0",
+  "description": "React Native font SimSun <宋体> SimHei <黑体> KaiTi<楷体> , support iOS and Android both.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/flyskywhy/react-native-font-sim.git"
+  },
+  "homepage": "https://github.com/flyskywhy/react-native-font-sim",
+  "keywords": [
+    "react-native",
+    "font",
+    "SimSun",
+    "SimHei",
+    "KaiTi"
+  ],
+  "rnpm": {
+    "assets": [
+      "./fonts"
+    ]
+  },
+  "author": "Li Zheng",
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": "*"
+  }
+}
