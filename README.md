@@ -17,6 +17,8 @@ optional:
     ln -s ../../../../../../node_modules/react-native-font-sim/fonts/* ./
     cd -
 
+If use `ln -s` above optional, run `react-native-asset` next time will got error, then need manually `cp` them before run `react-native-asset`.
+
 PS: The same steps can also install ttf files in e.g. [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons).
 
 ## Usage

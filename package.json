@@ -1,6 +1,6 @@
 {
   "name": "react-native-font-sim",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Font `SimSun(宋体)`, `SimHei(黑体)` and `KaiTi(楷体)`, can work with `<Text/>` or `<GCanvasView/>` or react-native-font-picker",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
