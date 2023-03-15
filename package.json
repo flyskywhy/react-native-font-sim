@@ -1,7 +1,7 @@
 {
   "name": "react-native-font-sim",
-  "version": "1.0.0",
-  "description": "React Native font SimSun <宋体> SimHei <黑体> KaiTi<楷体> , support iOS and Android both.",
+  "version": "2.0.0",
+  "description": "Font `SimSun(宋体)`, `SimHei(黑体)` and `KaiTi(楷体)`, can work with `<Text/>` or `<GCanvasView/>` or react-native-font-picker",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -17,14 +17,9 @@
     "SimHei",
     "KaiTi"
   ],
-  "rnpm": {
-    "assets": [
-      "./fonts"
-    ]
+  "author": {
+    "name": "Li Zheng",
+    "email": "flyskywhy@gmail.com"
   },
-  "author": "Li Zheng",
-  "license": "MIT",
-  "peerDependencies": {
-    "react-native": "*"
-  }
+  "license": "MIT"
 }
